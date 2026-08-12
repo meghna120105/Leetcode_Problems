@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/meghna120105/Leetcode_Problems/tree/master/0001-two-sum) |
 | [0486-predict-the-winner](https://github.com/meghna120105/Leetcode_Problems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/meghna120105/Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/meghna120105/Leetcode_Problems/tree/master/0877-stone-game) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/meghna120105/Leetcode_Problems/tree/master/0001-two-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/meghna120105/Leetcode_Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/meghna120105/Leetcode_Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/meghna120105/Leetcode_Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
