@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/meghna120105/Leetcode_Problems/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/meghna120105/Leetcode_Problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/meghna120105/Leetcode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0486-predict-the-winner](https://github.com/meghna120105/Leetcode_Problems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/meghna120105/Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/meghna120105/Leetcode_Problems/tree/master/0015-3sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/meghna120105/Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/meghna120105/Leetcode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/meghna120105/Leetcode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/meghna120105/Leetcode_Problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/meghna120105/Leetcode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/meghna120105/Leetcode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/meghna120105/Leetcode_Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
