@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/meghna120105/Leetcode_Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/meghna120105/Leetcode_Problems/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/meghna120105/Leetcode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/meghna120105/Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0486-predict-the-winner](https://github.com/meghna120105/Leetcode_Problems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/meghna120105/Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/meghna120105/Leetcode_Problems/tree/master/0877-stone-game) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/meghna120105/Leetcode_Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/meghna120105/Leetcode_Problems/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/meghna120105/Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/meghna120105/Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/meghna120105/Leetcode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/meghna120105/Leetcode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/meghna120105/Leetcode_Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/meghna120105/Leetcode_Problems/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/meghna120105/Leetcode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/meghna120105/Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/meghna120105/Leetcode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/meghna120105/Leetcode_Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Prefix Sum
@@ -170,4 +173,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/meghna120105/Leetcode_Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/meghna120105/Leetcode_Problems/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/meghna120105/Leetcode_Problems/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
