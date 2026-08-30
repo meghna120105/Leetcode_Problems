@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/meghna120105/Leetcode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/meghna120105/Leetcode_Problems/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/meghna120105/Leetcode_Problems/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/meghna120105/Leetcode_Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/meghna120105/Leetcode_Problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/meghna120105/Leetcode_Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/meghna120105/Leetcode_Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/meghna120105/Leetcode_Problems/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/meghna120105/Leetcode_Problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/meghna120105/Leetcode_Problems/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/meghna120105/Leetcode_Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/meghna120105/Leetcode_Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/meghna120105/Leetcode_Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/meghna120105/Leetcode_Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
