@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/meghna120105/Leetcode_Problems/tree/master/0115-distinct-subsequences) |
 | [1927-sum-game](https://github.com/meghna120105/Leetcode_Problems/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/meghna120105/Leetcode_Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/meghna120105/Leetcode_Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/meghna120105/Leetcode_Problems/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/meghna120105/Leetcode_Problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/meghna120105/Leetcode_Problems/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/meghna120105/Leetcode_Problems/tree/master/1140-stone-game-ii) |
